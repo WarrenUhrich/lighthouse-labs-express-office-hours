@@ -1,2 +1,3 @@
-# lighthouse-labs-express-office-hours
-Answering questions about React in office hours.
+# Lighthouse Labs | Express Office Hours
+
+Answering questions about Express in office hours.
