@@ -1,5 +1,7 @@
 # Lighthouse Labs | Express Office Hours
 
+[Vimeo Video Recording](https://vimeo.com/880027103/a8bde8650c?share=copy)
+
 * Callbacks
 * cURL
 * Breaking Down Problems
